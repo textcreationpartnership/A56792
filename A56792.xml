@@ -1,0 +1,585 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A practical discourse upon the death of our late graeious [sic] Queen being a sermon preach'd the 10th of March 1694/5, at St James Clarkenwell / by D. Pead ...</title>
+            <author>Pead, Deuel, d. 1727.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56792</idno>
+            <idno type="STC">Wing P962</idno>
+            <idno type="STC">ESTC R17662</idno>
+            <idno type="EEBO-CITATION">11863047</idno>
+            <idno type="OCLC">ocm 11863047</idno>
+            <idno type="VID">50049</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56792)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50049)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 38:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A practical discourse upon the death of our late graeious [sic] Queen being a sermon preach'd the 10th of March 1694/5, at St James Clarkenwell / by D. Pead ...</title>
+                  <author>Pead, Deuel, d. 1727.</author>
+               </titleStmt>
+               <extent>26, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Abel Roper, E. Wilkinson, and Roger Clavel ... and Joseph Fox ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Publish'd at the request of the parishioners"</note>
+                  <note>Advertisements on p. [1] at end.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50049:1"/>
+            <pb facs="tcp:50049:1" rendition="simple:additions"/>
+            <p>A Practical Diſcourſe Upon the DEATH Of Our <hi>LATE Graeious QUEEN.</hi> BEING A SERMON PREACH'D The 10th of <hi>March,</hi> 1694/5, at St. <hi>James Clark<g ref="char:EOLhyphen"/>enwell,</hi> By D. <hi>Pead,</hi> Chaplain to his Grace the Duke of <hi>Newcaſtle.</hi>
+            </p>
+            <p>
+               <hi>Publiſh'd at the Requeſt of the PARISHIONERS.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>Abel Roper, E. Wilkinſon,</hi> and <hi>Roger Clavel,</hi> over againſt St. <hi>Dunſtans</hi> Church, <hi>Fleetſtreet;</hi> and <hi>Joſeph Fox</hi> at the <hi>Seven Stars</hi> in <hi>Weſtminſter-Hall,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:50049:2"/>
+            <pb facs="tcp:50049:2"/>
+            <epigraph>
+               <q>
+                  <bibl>St. <hi>Luke</hi> 28th, <hi>Verſ.</hi> 23d, —Latter part.</bibl>
+                  <p>Weep not for me, but weep for your ſelves and for your Children.</p>
+               </q>
+            </epigraph>
+            <p>THESE Words were ſpoken by <hi>Jeſus Chriſt</hi> to the <hi>Virgin Mary,</hi> and other Women, whoſe Devotion led them to attend him in the A<g ref="char:EOLhyphen"/>gonies of Death; I ſhall at preſent conſider <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem, as coming from our late Gracious Queen, at Her Departure; and, in this Senſe you may look upon them as Her Laſt Advice, or Legacy to us, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all of both Sexes within this Realm; <hi>Weep not for me, but,</hi> &amp;c.</p>
+            <p>Here we find Two Parts;</p>
+            <list>
+               <item>1. A Prohibition; <hi>Weep not for me.</hi>
+               </item>
+               <item>2. An Injunction; <hi>but weep for your ſelves.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Firſt,</hi> The Prohibition, or Caution; <hi>Weep not <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> me.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, To weep, imports more than a bare weep<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g, or ſhedding of tears, for it ſignifies alſo an Eju<g ref="char:EOLhyphen"/>lation,
+<pb facs="tcp:50049:3"/>Howling, or Crying out; moreover, it im<g ref="char:EOLhyphen"/>plies an Hearty and Intrinſecal Sorrow, ariſing from a due conſideration of our preſent preſſure.</p>
+            <p>So that in a Day of Calamity, ſuch as this (when God hath called us to Mourning and Lamentation) for any to ſay, They cannot weep, for they are of too dry a Conſtitution, will be no excuſe; for, ad<g ref="char:EOLhyphen"/>mit they have not Tears at their diſpoſal, yet, unleſs they are ſtupid and ſenſeleſs, or poſſeſt with a Stoi<g ref="char:EOLhyphen"/>cal Apathy, they cannot but be greatly affected with what is come to paſs; and this is one ſort of weep<g ref="char:EOLhyphen"/>ing, though we weep beſt when both the eyes drop and the heart ſighs.</p>
+            <p>
+               <hi>Weep not.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ot.</note>
+            </p>
+            <p>Not, you may obſerve, in Reading the Scripture is not always taken as an Abſolute Denyal, but ſome<g ref="char:EOLunhyphen"/>times it is uſed in a Comparative Senſe, and direct<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us in two ſeveral things, which is better and mor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expedient;<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t. 9.</note> Thus, * <hi>I will have Mercy, and not Sa<g ref="char:EOLunhyphen"/>crifice:</hi> God did not hereby prohibit Sacrificing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but minded them, that Love and Charity ſhould b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mixed with their Piety and Devotion: So alſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> † (which comes up to our preſent purpoſe) <hi>Re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> your hearts,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>el</hi> 2.</note> 
+               <hi>and not your garments;</hi> i. e. Rather griev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inwardly, than outwardly; the humbling you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hearts, and the afflicting your Souls, is a mu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb facs="tcp:50049:3"/>better Teſtimony of your Mourning, than the Ta<g ref="char:EOLhyphen"/>ring your Robes, though this you may doe, yet the other you ought not to leave undone.</p>
+            <p>
+               <hi>Weep not.</hi>
+            </p>
+            <p>Theſe words and the Age ſute together; for tho' Wiſe <hi>Solomon</hi> affirms,<note n="*" place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note> 
+               <hi>There is as proper a Seaſon <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or Sorrow, as for Mirth;</hi> yet many of us are ſlow <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f heart to believe him: We are grown like the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nhabitants of <hi>Tambutum</hi> in <hi>Affrick,</hi> whom Travel<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers report to ſpend their days in Singing and Daun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing; the great buſineſs of our time is to drive away <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orrow.</p>
+            <p>The Reproof given the <hi>Jews</hi>
+               <note n="†" place="margin">
+                  <hi>Ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 11.1</note>, is very Applicable <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o us; they were like thoſe Children which their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ellows complain'd on, ſaying, <hi>We have Piped unto <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou, and you have not Daunced; we have Mourned <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto you, and you have not Lamented:</hi> Neither Mirth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or Sorrow, Proſperity nor Adverſity affect us as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey ought. When God liſted up his Countenance <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon this diſconſolate Kingdom, and with a Graci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us King and Queen Reſtor'd our Religion, Laws, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ives and Liberties, In how few did their Hearts <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aunce for Joy? and now he hath taken from our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead our great Queen, How few in this Lamenta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le Cataſtrophe are true Mourners?</p>
+            <pb n="4" facs="tcp:50049:4"/>
+            <p>
+               <hi>Weep not for me.</hi>
+            </p>
+            <p>Your Tears, I want not, they cannot reverſe the Sentence already executed; ſuch Lamentation for me is as Impertinent as Invocation of the Virgi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is Idolatrous: For, How can Mortals Believe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that we in <hi>Abraham</hi>'s Boſome take Cogniſance o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what they do or ſuffer,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 63.</note>when * <hi>Abraham</hi> himſelf <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in ſuch caſes, is ignorant.</p>
+            <p>While in the Body, I had, and ſhow'd Com<g ref="char:EOLunhyphen"/>paſſion; but it is one Priviledge of Heaven to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> above all occaſions of it: We are ſo Raviſh'd wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Glorious Preſence, and ſo Diligent at our Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lelujahs, that had we Intelligence, yet we wante<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Opportunity to conſider your Circumſtances.</p>
+            <p>
+               <hi>Weep not for me,</hi> becauſe Dead and D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>parted.</p>
+            <p>No more in this is befallen me, than what wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Natural, than what I ever Expected, Death is th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> common Lot of Mortals, neither Crown nor Scep<g ref="char:EOLunhyphen"/>ter, Authority nor Treaſures, Health or Beauty <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Youth or Strength, Wit or Policy, no nor Grace <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſelf, is a Sanctuary from the Arreſt of Death <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not onely Kings and Queens, Emperours an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Empereſſes, but <hi>Mary</hi> the Mother, and <hi>Lazarus,</hi> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:50049:4"/>Favourite of the Lord of Life have gone this way before Me.</p>
+            <p n="3">3. <hi>Weep not for Me,</hi> becauſe ſo early Dead.</p>
+            <p>Death is a Lawleſs Tyrant, obſerving no Rules, moving in no ſteady courſe; ſome he ſeizes in their full ſtrength, their bones well-ſtor'd with Marrow, and their breaſts with Milk<note n="*" place="margin">
+                  <hi>Job</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 24.</note> On ſome <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſteals, ſending no fatal Symptoms as Fore-run<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers.</p>
+            <p>Death is grown dainty, and indulges himſelf <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith Variety, as well High as Low, Poor as Rich, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trong as Weak, Healthy as Crazy, Young as Old <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e feeds upon.</p>
+            <p>He Reſpites not the Strong, till he hath firſt diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>atcht the Feeble, and the Decrepit; he will ſome<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mes neglect an old weather-beaten and tottering <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ottage, while he takes a pride to demoliſh a new<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ected Pallace; he is too bold to paſs by him <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at handleth the Sword, to take him that leaneth <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Staff; nor hath he the tenderneſs to pity <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Beautiful in their Flower and Prime, and take <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the Old and Wither'd; but, when e'r <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pleaſes he makes bold with all: For,<note n="†" place="margin">
+                  <hi>Pſ.</hi> 89.48.</note> 
+               <hi>What <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an is he that liveth, and ſhall not ſee death?</hi> The <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ave is our home, we are but wanderers till we
+<pb n="6" facs="tcp:50049:5"/>come there. The youngeſt is old enough to die, Death's Scythe will cut as will the Green, as Ripe Graſs.</p>
+            <p n="4">4. <hi>Weep not for Me,</hi> in that Death hath ſnatcht me ſo haſtily away.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Thoſe whom God Loves, he ſooneſt ſends for; you may think it too ſoon, yet to me a Sinner, he conceeded as long, if not lon<g ref="char:EOLhyphen"/>ger duration than to his Son, in whom was no ſin: Weep till you are planted in the Garden of God, for it is his particular care to Houſe his Choice Plants, and not leave them too long ex<g ref="char:EOLhyphen"/>pos'd to Storms.</p>
+            <p n="5">5. <hi>Weep not for me,</hi> as if by Death I were a Loſer.</p>
+            <p>Though dead, yet am I not kill'd with Death. * <hi>I dy'd to live.</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>v.</hi> 2.</note> 
+               <hi>For me to die was gain.</hi>
+            </p>
+            <p>I have left my Heavy, Thorny, and Anxious Crown, but ſpeak it not that you ſhould weep ha<g ref="char:EOLhyphen"/>ving, in exchange, receiv'd from him (for whom I Reign'd among you) an Immarceſſible Crown o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Glory.</p>
+            <p>'Tis true, I have left my Palace, my Train and
+<pb n="7" facs="tcp:50049:5"/>Attendance, who may bemoan my Retiring; but theſe I cannot miſs, being arriy'd at the Heavenly Jeruſalem, and incorporated in an Innumerable Company of Angels, I am come to a Glorious Aſ<g ref="char:EOLhyphen"/>ſembly of holy and happy Souls.</p>
+            <p>Some accounted my Life Madneſs, and that I was beſide my ſelf, in that I exerted not my Authori<g ref="char:EOLhyphen"/>ty, conſumed not my Revenue to the Pampering and Indulging Nature; my Devotion and Chari<g ref="char:EOLhyphen"/>ty, my VVatchfulneſs over my ſelf, my Circum<g ref="char:EOLhyphen"/>ſpection among my <hi>Attendants,</hi> was a Riddle, if not a Scorn to others; but, how ſweet was the Reflexion in the <hi>Agonies</hi> of Death! and how Mer<g ref="char:EOLhyphen"/>ciful hath the Gracious Lord rewarded thoſe ſmall pittances of Duty and Service! <hi>Weep not for me, for</hi>
+               <note n="*" place="margin">
+                  <hi>Pſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 11.</note> 
+               <hi>verily there is a Reward for the Righteous.</hi>
+            </p>
+            <p>But methinks I hear of ſome of you proteſting your noble and grateful tempers cannot diſpence with this Counſel; but though ſhe neither wants nor takes notice of your Tears; Though <hi>Death</hi> be as natural to Princes as to Beggars; Though an early departure to Bliſs be an happineſs; And though ſhe is the Gainer by Exchange of Crowns, yet you muſt and will Weep, you cannot re<g ref="char:EOLhyphen"/>frain.</p>
+            <p n="1">1. Becauſe Tears are the Due Rights, the Ac<g ref="char:EOLhyphen"/>cuſtom'd Benevolence paid to departed Friends,
+<pb n="8" facs="tcp:50049:6"/>it was not Reaſon, but Moroſsneſs, that Spoke in Ennius, <hi>Nemo me decoret Lachrymis.</hi>
+            </p>
+            <p>Tears are called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<hi>juſta defunctorum,</hi> the Dues, the Tribute belonging to the <hi>Dead:</hi> Thus <hi>Abraham,</hi> a great Prince, bemoaned his deceaſed <hi>Sarah; Jacob, Moſes, Samuel,</hi> and many others were Lamented when dead, becauſe they had been ſo uſeful and good when Living.</p>
+            <p>The Greater the Perſon, the higher in degree and Quality, the more Religious and Beneficial in his Generation, the Greater was the lamentation; thus <hi>Ahijah,</hi> † <hi>Jeroboam</hi>'s Son died, and, by God's Special Command,<note place="margin">
+                  <hi>King.</hi> 13.</note> all <hi>Iſrael Mourned for him;</hi> and the Reaſon is there given, <hi>Some good thing toward the Lord God of Iſrael was found in him.</hi>
+            </p>
+            <p>But when the Good King <hi>Joſiah</hi> was taken a<g ref="char:EOLhyphen"/>way by death *,<note place="margin">
+                  <hi>Chron.</hi> 31.</note> his death was in an extraordina<g ref="char:EOLhyphen"/>ry manner Lamented; all <hi>Judah</hi> and <hi>Jeruſalem</hi> Condoled him: † The Prophet <hi>Jeremiah</hi>'s <hi>head was as a Fountain of Tears,</hi>
+               <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erſ.</hi> 25.</note> 
+               <hi>all the Singing Men and Singing Women made great Lamentation for him:</hi> Such was the Mourning for that good Prince, ſo that it grew into a Proverb,<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ch.</hi> 12.</note> * <hi>As the Mourning of Hadadrimmon in the Valley of Megiddon.</hi>
+            </p>
+            <p>The Compariſon were at hand, had Grief a Tongue, and delighted in Loquacity. Was <hi>Joſiah</hi> zealous for the Lord, according to the Law of
+<pb n="9" facs="tcp:50049:6"/>
+               <hi>Moſes?</hi> Who more zealous than the Late Queen? (whoſe Tranſlation hence we now Commemo<g ref="char:EOLhyphen"/>rate) She was zealous for God, both according to the <hi>Law</hi> and the <hi>Goſpel;</hi> How induſtrious was She to Suppreſs Swearing, Drunkenneſs, Whore<g ref="char:EOLhyphen"/>dom, and Sabbath-breaking? And how did She commend each reſpective duty of the Goſpel to Her Subjects, by her own Practice and Exam<g ref="char:EOLhyphen"/>ple? Was <hi>Joſiah</hi> zealous againſt Idolatry? She more againſt all Idolatry and Prophaneneſs; Did he turn unto the Lord with all his Soul? Who could perceive that ſhe had many Thoughts, De<g ref="char:EOLhyphen"/>ſires, Studies, or Delights, but what tended either Primarily or Subordinately to the Glory of God? It was that King's Praiſe, <hi>That he had the Law Read in the Audience of the People;</hi> It was our <hi>Queen</hi>'s, That She delighted in having the <hi>Goſpel</hi> Piouſly, Reverently and Frequently Preach'd; In a Word, he was Chronicled for his Strict Obſervation of the <hi>Paſſover;</hi> She ought much more to be had in Remembrance, for her Devout and Frequent Receiving the Sacrament of the <hi>LORD</hi>'s <hi>S<g ref="char:V">Ʋ</g>P<g ref="char:EOLhyphen"/>PER.</hi>
+            </p>
+            <p>I want Time, to ſhew what Zeal She had, what Travel She underwent, to Settle the Church, to heal our Diſtractions, to compoſe our Differences; How Fervent was Her deſire to ſee the Houſe of
+<pb n="10" facs="tcp:50049:7"/>God purged from all its dregs? to remove all juſt and tolerable Cauſes of Separation? and to make the Terms of Communion as clear and comforta<g ref="char:EOLhyphen"/>ble as became the <hi>Chriſtian Religion?</hi> Doubtleſs, had God ſpared Her, She would have ſo Labour'd our Reformation and Union, that our Church ſhould have been a Praiſe in the Earth: Should I proceed by the Rule of Her Deſerts, and you, by the ſame, Commenſurate your Weeping, it were enough to Convert this Iſland into another <hi>Hada<g ref="char:EOLhyphen"/>drimmon.</hi>
+            </p>
+            <p>Is it not Reaſon then to ſay, <hi>Ah Lord! and, Ah Her Glory!</hi> It were unpardonable if ſuch a Prin<g ref="char:EOLhyphen"/>ceſs ſhould depart without the Groans of Her Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p n="2">2. We cannot prevent weeping, nor would we, becauſe an Unlamented death is Threatned by God as a Curſe: and, the worſt of Her Enemies will not Judge ſo hardly of Her, therefore it is pardo<g ref="char:EOLhyphen"/>nable if Her True Admirers Mourn for her.</p>
+            <p>God threatens<note n="*" place="margin">16.</note> the Reſtraining of Lamentati<g ref="char:EOLhyphen"/>on at death, as a grievous Puniſhment; and more expreſly concerning <hi>Jehojakim</hi> King of <hi>Judah,</hi> † God ſaid,<note n="†" place="margin">22.</note> 
+               <hi>They ſhall not Lament for him, ſaying, Ah my Brother, or, Ah Siſter; Ah Lord, Ah his Glory,</hi> i. e.
+<pb n="11" facs="tcp:50049:7"/>neither his Relations, nor his Subjects were permit<g ref="char:EOLhyphen"/>ted to make Lamentation for him.</p>
+            <p>
+               <hi>Solomon</hi> ſpeaks of it as a thing uſual and com<g ref="char:EOLhyphen"/>mon,<note n="*" place="margin">
+                  <hi>Ecc<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> 12.5</note> That when Men die, and go to their long home, <hi>The Mourners go about the City:</hi> And how then ſhall we ſay, That they whom God <hi>calleth Gods, die like Men,</hi> if a Queen ſhall want what is allowed to common Subjects.</p>
+            <p>In a word, God ſeems to Reſent it very ill, when this Kind Office is neglected, when theſe Tributes of Tears are kept back,<note n="†" place="margin">
+                  <hi>Iſa.</hi> 1.</note> 
+               <hi>The Righteous periſh, and no Man layeth it to heart:</hi> To ſpare, where God calls for ſpending; to grudge, where a gracious Princeſs ſo highly deſerves, is ſurely Impious.</p>
+            <p>But, notwithſtanding, let us once more Mind <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Text, and although it be a general Cuſtom, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſo we were out of Faſhion if we did not weep; Although God wills this Reſpect be ſhewn to ſo Eminent an Inſtrument of his Glory, and our Good; yet, <hi>Weep not for me.</hi>
+            </p>
+            <p n="1">1. Hypocritically.</p>
+            <p>Take heed your Grief, your Tears, your Con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rnedneſs for this Great Loſs, be not Counterfeit;
+<pb n="12" facs="tcp:50049:8"/>Country have ſwept away Thouſands? Hear you not the Cries and diſmal Complaints of the Poor? The Threats of Enemies? The Conſpiracy of Traytors? The Frauds and Deceits of Subjects? And will not the blackneſs and horrour hereof raiſe a Tempeſt of Tears? Then ſurely all Com<g ref="char:EOLhyphen"/>paſſion is extinct; the Clouds are wont to drop upon leſs noiſe.</p>
+            <p>Yet behold ſo little are we affected with ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sufferings, or ſenſible of what we have to fear that every one keeps on his old Rode, one to his Farm, another to his Merchandize, one to hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Buſineſs, another to his Pleaſure; and few la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> either the preſent, or what we may hereafter loſe to heart.</p>
+            <p>God took away <hi>Joſiah,</hi>
+               <note place="margin">22.10.</note> that he ſhould not ſee the Evil that was coming on his Kingdom; and who knoweth but that our Queen was taken a<g ref="char:EOLhyphen"/>way in like manner?</p>
+            <p>Could we weep and pray, pray, and drow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Prayers in Tears, God would certainly hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Cries; for Tears have an audible and ſigni<g ref="char:EOLhyphen"/>ficant Voice. Man may hear their general Voice and from our weeping, collect we are in Sorrow but God hears their ſecret, and ſpecial Voice, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in our weeping reads our Humility and Repentance</p>
+            <pb n="13" facs="tcp:50049:8"/>
+            <p>
+               <hi>Weep for your ſelves.</hi>
+            </p>
+            <p>We have juſt cauſe to fear our Sins have haſtened this Death, which we now deplore. God in his Goodneſs ſent us ſuch a Princeſs, as was both a Patroneſs, and Example of Goodneſs: A Glaſs by which this crooked Age might have rectified it ſelf; and ſeeing he has waited divers Years, and found no amendment, what was it but juſt to take the Mirrour from us? What ſhould they do with a Light, who will not walk by it? This is no new thing; for <hi>If you continue to do wickedly,</hi>
+               <note place="margin">1 <hi>Sam</hi>
+               </note> 
+               <hi>both you and your King ſhall be deſtroyed.</hi>
+            </p>
+            <p>So <hi>Solomons</hi> Obſervation was;<note place="margin">Prov.</note> 
+               <hi>For the Tranſ<g ref="char:EOLhyphen"/>greſſion of a Land, many are the Princes thereof:</hi> And if we have not diſſembled with God, in the Service for the Thirtieth of <hi>January,</hi> we confeſs that the Crying Sins of the Nation occaſioned the Death of King <hi>Charles</hi> the Firſt.</p>
+            <p>The Throne feels many Removes, when Sub<g ref="char:EOLhyphen"/>jects go on ſtill in their Wickedneſs; ſo that there <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies a neceſſity upon us to weep an hearty Re<g ref="char:EOLhyphen"/>pentance by way of Atonement, and hereafter to live moſt religiouſly by way of Prevention: Which brings us to the next Conſideration.</p>
+            <pb n="20" facs="tcp:50049:9"/>
+            <p n="3">III. <hi>Weep for your ſelves, and your children.</hi>
+            </p>
+            <p>Weep ſo as to reform; ſhed Tears of abhorrence and deteſtation: It were extremely provoking for all this to ſin on; to be found ſinning againſt God in the day that we ſhould be crying out of our Trouble and Miſery.</p>
+            <p>While <hi>Amaſa</hi> lay openly wallowing in his Blood the whole Congregation ſtood aſtonied, they were all highly concerned to ſee the Land ſo defiled with Blood;<note place="margin">20.12.</note> but yet no ſooner was the Dead cove<g ref="char:EOLhyphen"/>red with a Cloth, and removed out of ſight but every one marched on as he was going.</p>
+            <p>I no ways queſtion, but the firſt relation of the Queen's Sickneſs was diſmal to moſt; and at the report of her Death, the hearts of many good People were ready to ſink within them; and all concurred in this Opinion, that for the Wickedneſs of the Land ſhe was fallen; and ſhall we now the Solemnity of her Funeral is over, recant? God forbid: I hope as every day will diſcover our lo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be greater and greater; ſo our loſs will imbitte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Sins to us, that we ſhall ſet upon a general Re<g ref="char:EOLhyphen"/>formation.</p>
+            <pb n="21" facs="tcp:50049:9"/>
+            <p>Some Tempers are corrected when brought to weeping: God grant us Hearts to weep, and Grace to amend. It was an Obſervation made of the <hi>Jews,</hi> that they were beſt in their worſt Con<g ref="char:EOLhyphen"/>dition; of the <hi>Athenians</hi> it was ſpoken Proverbi<g ref="char:EOLhyphen"/>ally, <hi>Non niſi Atrati,</hi> they never kept any <hi>decorum,</hi> but when in Mourning: And a great Stateſman once ſpoke of this Nation, <hi>Anglica gens eſt optima ſlens, peſsima ridens,</hi> The <hi>Engliſh</hi> are moſt like them<g ref="char:EOLhyphen"/>ſelves when God turns their Mirth into Sorrow. Now therefore you are called to the Houſe of Mourning, it is very ſeaſonable both to weep and amend.</p>
+            <p>Could we thus mourn, God would re<g ref="char:EOLhyphen"/>turn, and leave a Bleſſing behind him, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e did to <hi>Nineveh,</hi> we might yet ſee <hi>Jeruſa<g ref="char:EOLhyphen"/>lem</hi> in Proſperity. Could we thus weep for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ur Sins; and in weeping, leave them off, there were hopes, after a fair Enjoyment of Peace and Proſperity here, we may, like her that is now gone before us, dye willingly and chear<g ref="char:EOLhyphen"/>fully; for ſhe willingly reſign'd her Breath; ſhe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll a-ſleep without the leaſt reluctancy or reſi<g ref="char:EOLhyphen"/>ſtance: It was not regardleſsneſs, or ignorance of Death; nor was it the Gallantry of her natural Courage, that taught her thus to defie the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of Terrors, but the good Foundation ſhe
+<pb n="20" facs="tcp:50049:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:50049:10"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="22" facs="tcp:50049:11"/>had laid up againſt this Day: Her Fidelity in God's Service emboldned her Truſt in his Mercy.</p>
+            <p>
+               <hi>To Conclude.</hi>
+            </p>
+            <p>I ſhall now endeavour Two things.</p>
+            <list>
+               <item>I. To remove ſome Diſcontents.</item>
+               <item>II. To give ſome needful Exhortations.</item>
+            </list>
+            <p n="1">1. Peradvenrure my appearing no ſooner upon this Occaſion, may be called Coldneſs or Un<g ref="char:EOLhyphen"/>concernedneſs; I ſhall excuſe my ſelf no other<g ref="char:EOLhyphen"/>wiſe, than by ſhewing you that I learn from <hi>Joab</hi>'s Reproof to <hi>Ahimaz,</hi>
+               <note place="margin">18.</note> it was manners to l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Zadock,</hi> who was thereunto appointed, run be<g ref="char:EOLhyphen"/>fore.</p>
+            <p n="2">2. Perhaps I may be cenſured as too partia<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> that I have not ſufficiently illuſtrated, and bl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> zoned the Queen's Vertues. In anſwer hereunto my Opinion is, true Grief loves not to be Rh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>torical; where it does ſpeak, it is but abrub<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and brokenly, like the harſh Cry of Cranes, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the unpleaſant chattering of Swallows: Beſide<g ref="char:punc">▪</g>
+               <pb n="23" facs="tcp:50049:11"/>I did conclude, ſhould I have told you in the Language of ſome, that ſhe exceeded King <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> Queen <hi>Elizabeth;</hi> nay, all the Kings and Queens that ever were, this would offend as ful<g ref="char:EOLhyphen"/>ſome: I could not in one breath declare ſhe was beyond Deſcription, and in the next do it in a few Words.</p>
+            <p>In ſhort, I have ſeen and obſerv'd many things, I have heard more, and do probably believe as much as another; but yet dare not ſpeak too liberally, for fear I ſhould be thought another <hi>So<g ref="char:EOLhyphen"/>ſtratus,</hi> and to offer more to the Living than Dead.</p>
+            <p>Yet however I will not deny my Character; which is this: Our late Queen <hi>Mary</hi> was ſo good, that God took her away as too good for ſuch a wicked People as we are. You may have a larger, <hi>Prov.</hi> 31.</p>
+            <p n="3">3. There is yet another prejudice, ſome reproach'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he deceaſed Queen when living, and ſtill brand her Honour now dead, by charging he with For<g ref="char:EOLhyphen"/>getfulneſs of the Fifth Commandment.</p>
+            <p>This is the Charge; but they that are ſo indu<g ref="char:EOLhyphen"/>ſtrious in ſpreading and aggravating it, would do better to conſider; The Conjunction of Matri<g ref="char:EOLhyphen"/>mony is nearer and ſtronger than that of Pa<g ref="char:EOLhyphen"/>rents
+<pb n="24" facs="tcp:50049:12"/>and Children; for God who ſo ſtrictly com<g ref="char:EOLhyphen"/>manded, and encouraged the Obedience of Chil<g ref="char:EOLhyphen"/>dren to Parents, yet was pleaſed to diſpenſe with this Law,<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 13.</note> in caſe of Matrimony: <hi>For thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> cauſe ſhall a man forſake father and mother,</hi> &amp;c. which Law is equal to either Sex; and ſhows us, that i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ever the Paternal Duty ſhould contradict the Mar<g ref="char:EOLhyphen"/>riage, that of the Marriage hath the pre-eminence. Moreover, in the State of Matrimony, the Husband hath power over the Wife: So that it is againſt all Reaſon, that the Queen ſhould anſwer as a Daugh<g ref="char:EOLhyphen"/>ter for what ſhe could not refuſe as a Wife.</p>
+            <p>
+               <hi>Plancus,</hi> near his end, was told that <hi>Aſinius Poll<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> had prepar'd Funeral-Orations againſt him, and had ſteep'd his Pen in Gall, <hi>Plancus</hi> ſlighted the Informa<g ref="char:EOLhyphen"/>tion, ſaying, <hi>None but Ghoſts will contend with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dead:</hi> Though he thus bravely ſcorn'd <hi>Pollio</hi>'s Ma<g ref="char:EOLhyphen"/>lice, yet could not <hi>Pollio</hi> diſgeſt <hi>Plancus</hi>'s Anſwer but departed from his intention of railing at him For fear the Manners and Wiſdom ſhould be wan<g ref="char:EOLhyphen"/>ting among Chriſtians, which was found in th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Heathen, ſomething I will ſay, though not much left the adverſe Party ſhould conceit their Obje<g ref="char:EOLhyphen"/>ction of greater weight than really it is.</p>
+            <p>Put caſe God had in Mercy to his afflicted Churc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dealt by the Father, as he hath formerly done b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other Crowned Heads, removed him by ſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:50049:12"/>ſtrange Death, had not the Daughter's Title then been good? Had ſhe not then legally aſcended the Throne? What is it then that occaſions all this Diſ<g ref="char:EOLhyphen"/>content, unleſs it be God in Judgment remembred Mercy; and, by one ſingle Act of his Providence, both prevented farther Miſchief, and conceeded the Deluded a larger time for Repentance.</p>
+            <p>It hath been ſaid by them of old time, <hi>Vox Populi, Vox Dei;</hi> then, when ſo fairly call'd, who was ſhe that ſhe ſhould withſtand?</p>
+            <p>We are told our Laws are conſonant to Gods; if ſo, what are they but Murmurers who complain of what the Law juſtifies?</p>
+            <p>
+               <hi>Some Exhortations.</hi>
+            </p>
+            <p n="1">I. Reſolve henceforward to be more Loyal, Obe<g ref="char:EOLhyphen"/>dient, Faithful, and Aſſiſting to his Majeſty: All wiſe People will remember they have the Dues of Two to pay to one.</p>
+            <p n="2">II. You have great cauſe to love, and be ſtedfaſt in your Religion, if you conſider rightly what of late God hath done in its defence.</p>
+            <p>
+               <hi>David</hi> ſays,<note place="margin">Pſal.</note> 
+               <hi>Let the multitude of the Iſles rejoice</hi> (we may particularly call upon our own to do ſo) <hi>for you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee God ruleth in the Kingdoms of Men.</hi>
+            </p>
+            <pb facs="tcp:50049:13"/>
+            <p>You have read that <hi>Moſes</hi> young and help<g ref="char:EOLhyphen"/>leſs leſs) was caſt out, and ſhould have been deſtroy'd, the King had given ſuch Order; yet he that ſitteth in Heaven conſented not, but choſe the Daughter of that King to preſerve him: God can ſecure our Re<g ref="char:EOLhyphen"/>ligion by ways unthought of by us; if ever it fall, it will not be for want of power in God, but love in us.</p>
+            <p>I could not leave you with a better Remark, that you may remember what great things God hath done for you, and yours, by her means whom he hath now taken to himſelf.</p>
+            <p>God grant what hath been ſaid may prove as pro<g ref="char:EOLhyphen"/>fitable, as it has been ſeaſonable; and that we may all of us weep ſo heartily for our Selves, and our Children, that God may depart from his Wrath and by his gracious Providence make up the breach he hath made upon us.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:50049:13"/>
+            <head>
+               <hi>Books Printed for</hi> Abel Roper, E. Wilkinſon, <hi>and</hi> Roger Clavell.</head>
+            <p>DR. <hi>Hammond</hi>'s Works.</p>
+            <p>Dr. <hi>Cudworth</hi>'s Works.</p>
+            <p>Dr. <hi>Lake</hi>'s preparatory Office for the Sacrament.</p>
+            <p>
+               <hi>Week</hi>'s Exerciſe for the receiving of the Sacrament. De<g ref="char:EOLhyphen"/>dicated to the Princeſs <hi>Ann</hi> of <hi>Denmark.</hi> The Fourth Edition.</p>
+            <p>
+               <hi>Weſtly</hi>'s Life of Chriſt. In Heroick Verſe. Adorned with Sixty Copper Cuts.</p>
+            <p>A Sermon Preached at the Funeral of the Father of the Prince of <hi>Orange.</hi>
+            </p>
+            <p>
+               <hi>Walker</hi>'s <hi>Epictetus.</hi> In Engliſh Verſe.</p>
+            <pb facs="tcp:50049:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
